@@ -15,9 +15,9 @@ O objetivo deste projeto é criar uma calculadora para freelancers que trabalham
 
 Você pode acessar a planilha no Google Sheets e fazer uma cópia para o seu Google Drive, ou baixar o arquivo e abrir no Excel.
 
-[Google spreadsheet](https://docs.google.com/spreadsheets/d/1WbCn-eXz1ldIGYFATVTePatN-cexcSa5eXn6BWDxPbE/edit?usp=sharing)
-[Excel file](/Cobrança%20autônomo%20(Para%20copiar).xlsx)
-[Open Office file](/Cobrança%20autônomo%20(Para%20copiar).ods)
+- [Google spreadsheet](https://docs.google.com/spreadsheets/d/1WbCn-eXz1ldIGYFATVTePatN-cexcSa5eXn6BWDxPbE/edit?usp=sharing)
+- [Excel file](/Cobrança%20autônomo%20(Para%20copiar).xlsx)
+- [Open Office file](/Cobrança%20autônomo%20(Para%20copiar).ods)
 
 ## Sugestões e feedbacks são bem-vindos.
 
