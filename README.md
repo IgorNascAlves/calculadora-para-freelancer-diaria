@@ -22,5 +22,5 @@ Você pode acessar a planilha no Google Sheets e fazer uma cópia para o seu Goo
 ## Sugestões e feedbacks são bem-vindos.
 
 ## Autores:
-Andreas Andrade
-Igor Nascimento - [Linkedin](https://www.linkedin.com/in/igor-nascimento-alves/) - [Email](igor.nascimento.flipe@gmail.com)
+- Andreas Andrade
+- Igor Nascimento - [Linkedin](https://www.linkedin.com/in/igor-nascimento-alves/) - [Email](igor.nascimento.flipe@gmail.com)
